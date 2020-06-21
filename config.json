@@ -1,11 +1,11 @@
 {
-  "dataURL": "",
-  "token": "",
+  "dataURL": "mongodb+srv://wof:wof@cluster0-wb83l.mongodb.net/database?retryWrites=true&w=majority",
+  "token": "NzAzNjQ2MzQ2OTA4OTI1OTYy.XtwNhw.rVyLjZbrPEZNDhVGrn0DIx0BWZA",
   "owner": ["643018466261205021","611981235505594379"],
   "prefix": "!",
   "upXP": "100",
   "timely": "21600000",
   "how": "100", 
-  "color": "",
+  "color": "ffffff",
   "warn": "5"
 }
